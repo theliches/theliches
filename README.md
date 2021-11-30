@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @theliches
+- ✅ Media Graphic Designer
+- 👀 I’m interested in Graphic Design and Web Development
+- 🌱 I’m currently learning Scss, React & Typescript
+- 📫 How to reach me? Message me!
